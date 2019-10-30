@@ -27,7 +27,7 @@
 
 body {
   color: black;
-  background-color: #FFF1D0;
+  background-color: #1A659E;
   font-family: Staatliches, cursive;
   font-size: 16px;
   line-height: 1.6;
@@ -35,27 +35,27 @@ body {
 }
 
 h1 {
-  color: 086788;
+  color: #004E89;
   font-family: Staatliches, cursive;
   font-size: 32px;
   line-height: 1.0;
 }
 
 h2 {
-  color: F0C808;
+  color: #1A659E;
   font-family: Staatliches, cursive;
   font-size: 24px;
   line-height: 1.2;
 }
 
 a {
-  color: #07A0C3;
+  color: #FF6B35;
   text-decoration: none;
   width: 25px;
 }
 
 a:hover {
-  color: red;
+  color: #F7C59F;
 }
 
 i {
