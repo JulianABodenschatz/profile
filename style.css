@@ -26,7 +26,7 @@
 }
 
 .btn-red {
-    background-color: #F8333C;
+    background-color: #FB3640;
     color: white;
     padding: 15px 15px;
     border-radius: 5px;
@@ -34,7 +34,7 @@
 }
 
 body {
-  color: #011627;
+  color: #605F5E;
   background-color: #F7F9FC;
   font-family: Ubuntu, sans-serif;
   font-size: 18px;
@@ -48,27 +48,27 @@ p {
 }
 
 h1 {
-  color: #011627;
+  color: #0A2463;
   font-family: Ubuntu, sans-serif;
   font-size: 36px;
   line-height: 1.5;
 }
 
 h2 {
-  color: #011627;
+  color: #0A2463;
   font-family: Ubuntu, sans-serif;
   font-size: 24px;
   line-height: 1.5;
 }
 
 a {
-  color: #F8333C;
+  color: #FB3640;
   text-decoration: none;
   width: 24px;
 }
 
 a:hover {
-  color: black;
+  color: #0A2239;
 }
 
 .list-inline > li {
